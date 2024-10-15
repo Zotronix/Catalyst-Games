@@ -31,7 +31,7 @@ const hideFullScreenButton="";const buildUrl = "https://app-355059.games.s3.yand
       dataUrl: buildUrl + "/2ab4104842449591e3c7a447581e7c98.data.br",
       frameworkUrl: buildUrl + "/b799654dc695eedfce4cdc85caadd337.js.br",
       codeUrl: buildUrl + "/fd6b7019526c787d2cd2a122a406c55b.wasm.br",
-      streamingAssetsUrl: "StreamingAssets",
+      streamingAssetsUrl: "https://app-355059.games.s3.yandex.net/355059/zo98v4p61iwhhctrfczqmsnz6pdx451o/StreamingAssets",
       companyName: "GingerPlay",
       productName: "Dress to Impress",
       productVersion: "0.1",
