@@ -12,8 +12,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
 <title>Dress to Impress</title>
-<link rel="stylesheet" href="TemplateData/style.css"/>
-<script src="TemplateData/gamepush-unity.js"></script>
+<link rel="stylesheet" href="https://app-355059.games.s3.yandex.net/355059/zo98v4p61iwhhctrfczqmsnz6pdx451o/TemplateData/style.css"/>
+<script src="https://app-355059.games.s3.yandex.net/355059/zo98v4p61iwhhctrfczqmsnz6pdx451o/TemplateData/gamepush-unity.js"></script>
 <script>
     const projectId = "14336";
     const publicToken = "xg8qEF1O3AWyY1qsGNQrWhzc5YbsezQs";
