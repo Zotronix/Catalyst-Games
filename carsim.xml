@@ -18,9 +18,9 @@
     <meta charset="utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Cars Simulator</title>
-    <link href="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/style.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/tstyle.css" />
-    <script srchttps://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/UnityProgress.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/UnityProgress.js"></script>
     <link rel="icon" href="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/favicon.ico" />
     <script src="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/UnityLoader.js"></script>
     <script>
