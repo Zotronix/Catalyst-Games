@@ -18,12 +18,12 @@
     <meta charset="utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Cars Simulator</title>
-    <link href="style.css" rel="stylesheet" />
-    <link rel="stylesheet" href="tstyle.css" />
-    <script src="UnityProgress.js"></script>
-    <link rel="icon" href="favicon.ico" />
-    <script src="UnityLoader.js"></script>
-    <script src="main.js"></script>
+    <link href="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/tstyle.css" />
+    <script src="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/UnityProgress.js"></script>
+    <link rel="icon" href="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/favicon.ico" />
+    <script src="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/UnityLoader.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/main.js"></script>
     <script>
       var gameInstance = UnityLoader.instantiate("gameContainer", "https://codeberg.org/Zotronix/blaze/raw/branch/main/Car%20sim/car-simulator-v2.json", {
         onProgress: UnityProgress,
@@ -34,8 +34,8 @@
         },
       });
     </script>
-    <script src="lib.js" type="text/javascript"></script>
-    <script src="gamebreak.js" type="text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/lib.js" type="text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/gamebreak.js" type="text/javascript"></script>
   </head>
   <body>
     <div class="webgl-content">
