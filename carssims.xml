@@ -24,7 +24,7 @@
     <link rel="icon" href="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/favicon.ico" />
     <script src="https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/UnityLoader.js"></script>
     <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "https://codeberg.org/Zotronix/blaze/raw/branch/main/Car%20sim/car-simulator-v2.json", {
+      var gameInstance = UnityLoader.instantiate("gameContainer", "https://bafybeibhc6x7obn35ga6qylboym2rpnt3e2ic4aswng5uiakyz4foffg6i.ipfs.flk-ipfs.xyz/Build/cars-simulator-v2.json", {
         onProgress: UnityProgress,
         Module: {
           onRuntimeInitialized: function () {
