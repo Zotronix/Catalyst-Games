@@ -20,7 +20,7 @@
     <script src="UnityLoader.js"></script>
     <script src="main.js"></script>
     <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "cars-simulator-v2.json", {
+      var gameInstance = UnityLoader.instantiate("gameContainer", JSONURL, {
         onProgress: UnityProgress,
         Module: {
           onRuntimeInitialized: function () {
