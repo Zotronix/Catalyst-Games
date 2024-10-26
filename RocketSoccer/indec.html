@@ -59,6 +59,10 @@ async function convertJSON() {
                 const JSONBlob = new Blob([JSON.stringify(jsonContent)], { type: "application/json" });
                 const JSONURL = URL.createObjectURL(JSONBlob);
 }
+
+        convertJSON();
+        convertCode();
+        convertData();
     </script>
     <script>
         window.config = {
