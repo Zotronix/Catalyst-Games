@@ -65,6 +65,7 @@
             await convertData();
             await convertCode();
             await convertJSON();
+        }
 
             // Now set up the config after everything is ready
             window.config = {
@@ -85,9 +86,8 @@
                     'https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/RocketSoccer/rsd.wasm.framework.unityweb': 91813,
                 },
             };
-        }
 
-        await init();
+        init();
     </script>
 
     <style>
