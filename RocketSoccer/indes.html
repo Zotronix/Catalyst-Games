@@ -21,7 +21,7 @@
 
                 // Create a new Blob to hold the merged content
                 const dataBlob = new Blob(fileBlobs, { type: 'application/octet-stream' });
-                const dataURL = URL.createObjectURL(dataBlob);
+                var dataURL = URL.createObjectURL(dataBlob);
                }
         }
       async function convertCode() {
@@ -37,7 +37,7 @@
 
                 // Create a new Blob to hold the merged content
                 const codeBlob = new Blob(fileBlobs, { type: 'application/octet-stream' });
-                const codeURL = URL.createObjectURL(codeBlob);
+                var codeURL = URL.createObjectURL(codeBlob);
                }
         }
 
@@ -57,7 +57,7 @@ async function convertJSON() {
 
                 // Create a JSON Blob and URL
                 const JSONBlob = new Blob([JSON.stringify(jsonContent)], { type: "application/json" });
-                const JSONURL = URL.createObjectURL(JSONBlob);
+                var JSONURL = URL.createObjectURL(JSONBlob);
 }
 
         convertJSON();
