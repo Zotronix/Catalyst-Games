@@ -48,5 +48,8 @@ gameURLS = [
     {"name": "Moto X3M", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/bobydob/JSEngine@99563e3bf6eb25323e3bd5af20dcd9a261b97991/build/m3m/m3m.xml&container=ig"},
     {"name": "Bob The Robber", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/f107b843-3661-4036-9397-2b0c6414a369%2Fbob-the-robber.xml&container=ig"},
     {"name": "Geometry Dash", "url": "https://catalust.mos.us-south-1.sufybkt.com/Geometry%20Dash/index.html"},
-    {"name": "Stick War", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fstick-war.xml&container=ig"}
+    {"name": "Stick War", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fstick-war.xml&container=ig"},
+    {"name": "Flash Games", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/yezsirez/flash-games@main/flashlauncher.xml&container=ig"},
+    {"name": "Polytrack", "url": "https://catalust.mos.us-south-1.sufybkt.com/polytrack/index.html"},
+    {"name": "Fury Wars", "url": "https://catalust.mos.us-south-1.sufybkt.com/fury%20wars/index.html"},
 ];
