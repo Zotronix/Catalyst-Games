@@ -52,4 +52,5 @@ gameURLS = [
     {"name": "Flash Games", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/yezsirez/flash-games@main/flashlauncher.xml&container=ig"},
     {"name": "Polytrack", "url": "https://catalust.mos.us-south-1.sufybkt.com/polytrack/index.html"},
     {"name": "Fury Wars", "url": "https://catalust.mos.us-south-1.sufybkt.com/fury%20wars/index.html"},
+    {"name": "Stickman Hook", "url": "https://catalust.mos.us-south-1.sufybkt.com/StickmanHook/index.html"},
 ];
