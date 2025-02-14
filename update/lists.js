@@ -42,7 +42,6 @@ gameURLS = [
     {"name": "Roblox Blade Ball", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/9ecda005-11e9-4b52-ab9e-700b4d46d00f%2Fblb.xml&container=ig"},
     {"name": "Roblox Obby", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/9ecda005-11e9-4b52-ab9e-700b4d46d00f%2Fobby.xml&container=ig"},
     {"name": "Roblox Rob The Bank", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/9ecda005-11e9-4b52-ab9e-700b4d46d00f%2Fftbr.xml&container=ig"},
-    {"name": "Roblox Youtuber Simulator", "url": "https://script.google.com/macros/s/AKfycbweewBsVPlvVwk5OoRGdUSBelle5KgyT2Vuuq_SGflRA7_zlxcTCx2QDDrcofiN1_Q2/exec"},
     {"name": "Tomb of the Mask", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/element@9cccb2fafb569c963501a5d818472b561121cea6/totm.xml&container=ig"},
     {"name": "Monkey Mart", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://218463058-163927403382736103.preview.editmysite.com/uploads/b/139890129-297434511671085883/files/mm.xml?container=ig"},
     {"name": "Blockpost", "url": "https://catalust.mos.us-south-1.sufybkt.com/Blockpost/index.html"},
