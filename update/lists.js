@@ -38,6 +38,8 @@ gameURLS = [
     {"name": "Minecraft Resent", "url": "https://catalust.mos.us-south-1.sufybkt.com/mcresent.html"},
     {"name": "Minecraft Flame", "url": "https://catalust.mos.us-south-1.sufybkt.com/flameclient%203.7.html"},
     {"name": "Minecraft Astra", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/Zotronix/Catalyst-Games@main/mcastra.xml&container=ig"},
+    {"name": "Minecraft 1.9.4", "url": "https://catalust.mos.us-south-1.sufybkt.com/EaglercraftL_1.9_v0_7_0_Offline_Signed.html"},
+    {"name": "Minecraft 1.11.2", "url": "https://catalust.mos.us-south-1.sufybkt.com/EaglercraftZ1.11.html"},
     {"name": "Roblox Color Run", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/9ecda005-11e9-4b52-ab9e-700b4d46d00f/color.xml&container=ig"},
     {"name": "Roblox Blade Ball", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/9ecda005-11e9-4b52-ab9e-700b4d46d00f%2Fblb.xml&container=ig"},
     {"name": "Roblox Obby", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/9ecda005-11e9-4b52-ab9e-700b4d46d00f%2Fobby.xml&container=ig"},
