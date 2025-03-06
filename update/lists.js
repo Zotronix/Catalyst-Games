@@ -57,4 +57,5 @@ gameURLS = [
     {"name": "Stickman Hook", "url": "https://catalust.mos.us-south-1.sufybkt.com/StickmanHook/index.html"},
     {"name": "Minecraft Parkour", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/9ecda005-11e9-4b52-ab9e-700b4d46d00f%2Fminep.xml&container=ig"},
     {"name": "Skibidi Toilet.io", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://147294106-271957305593713958.preview.editmysite.com/uploads/b/146211889-736862448591698921/files/stio.xml&container=ig"},
+    {"name": "Tiny Fishing", "url": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://72682389-756457502729861133.preview.editmysite.com/uploads/b/11886820-896015480911618794/files/tf.xml&container=ig"},
 ];
