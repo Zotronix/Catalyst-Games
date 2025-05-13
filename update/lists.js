@@ -59,3 +59,4 @@ gameURLS = [
     {"name": "Skibidi Toilet.io", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/skibiditoilet.io.html"},
     {"name": "Tiny Fishing", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/tiny-fishing.html"},
 ];
+document.querySelector("title").innerText = "Google Classroom";
