@@ -58,5 +58,10 @@ gameURLS = [
     {"name": "Minecraft Parkour", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/mc-parkour.html"},
     {"name": "Skibidi Toilet.io", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/skibiditoilet.io.html"},
     {"name": "Tiny Fishing", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/tiny-fishing.html"},
+    {"name": "Space Waves", "url": "https://crazygames.cdn.msnfun.com/9nm5764dbppg/v6/index.html"},
+    {"name": "Get to the Chopper", "url": "https://marketjs.cdn.msnfun.com/9nb57v05m44f/v8/index.html"},
+    {"name": "Idle Town Billionaire", "url": "https://marketjs.cdn.msnfun.com/9pk3bhpqd11f/v5/index.html"},
+    {"name": "Idle Mining Empire", "url": "https://marketjs.cdn.msnfun.com/9n3wz0fzx1hr/v29/index.html"},
+    {"name": "Gangsta Island", "url": "https://playgama.cdn.msnfun.com/9p87g58gdfs8/v20/index.html"},
 ];
 document.querySelector("title").innerText = "Google Classroom";
