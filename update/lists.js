@@ -63,5 +63,6 @@ gameURLS = [
     {"name": "Idle Town Billionaire", "url": "https://marketjs.cdn.msnfun.com/9pk3bhpqd11f/v5/index.html"},
     {"name": "Idle Mining Empire", "url": "https://marketjs.cdn.msnfun.com/9n3wz0fzx1hr/v29/index.html"},
     {"name": "Gangsta Island", "url": "https://playgama.cdn.msnfun.com/9p87g58gdfs8/v20/index.html"},
+    {"name": "Smashy Road", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Smashy%20Road/index.html"},
 ];
 document.querySelector("title").innerText = "Google Classroom";
