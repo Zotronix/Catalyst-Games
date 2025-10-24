@@ -65,5 +65,8 @@ gameURLS = [
     {"name": "Gangsta Island", "url": "https://playgama.cdn.msnfun.com/9p87g58gdfs8/v20/index.html"},
     {"name": "Smashy Road", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Smashy%20Road/index.html"},
     {"name" : "Trash Clash Royale", "url" : "https://cutlass.mos.us-south-1.sufybkt.com/Clash%20Royale%20Trash/index.html"},
+    {"name" : "Steal a Brainrot", "url" : "https://crazygames.cdn.msnfun.com/9pltx207s22g/v3/index.html"},
+    {"name" : "Grow a Garden", "url" : "https://script.google.com/macros/s/AKfycbwK_YDMKEccZyVOz_fpe66G4Je4VyFPdT10OdaKpM699Utzbq41n2m6OXqAzpX0oqrLTA/exec"},
+    {"name" : "Plants vs Brainrots", "url" : "https://cutlass.mos.us-south-1.sufybkt.com/Plants%20vs%20Brainrots/index.html"}
 ];
 document.querySelector("title").innerText = "Google Classroom";
