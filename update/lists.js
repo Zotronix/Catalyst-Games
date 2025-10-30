@@ -70,4 +70,5 @@ gameURLS = [
     {"name" : "Plants vs Brainrots", "url" : "https://cutlass.mos.us-south-1.sufybkt.com/Plants%20vs%20Brainrots/index.html"},
     {"name" : "Masked Special Forces", "url" : "https://storage.googleapis.com/freezenova/all/2022/unity2/masked-special-forces/index.html"}
 ];
+gameURLS.push({"name" : "Request Games", "url" : "https://cutlass.mos.us-south-1.sufybkt.com/GameRequests/submit.html"})
 document.querySelector("title").innerText = "Google Classroom";
