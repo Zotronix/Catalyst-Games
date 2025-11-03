@@ -69,7 +69,8 @@ gameURLS = [
     {"name" : "Grow a Garden", "url" : "https://script.google.com/macros/s/AKfycbwK_YDMKEccZyVOz_fpe66G4Je4VyFPdT10OdaKpM699Utzbq41n2m6OXqAzpX0oqrLTA/exec"},
     {"name" : "Plants vs Brainrots", "url" : "https://cutlass.mos.us-south-1.sufybkt.com/Plants%20vs%20Brainrots/index.html"},
     {"name" : "Masked Special Forces", "url" : "https://storage.googleapis.com/freezenova/all/2022/unity2/masked-special-forces/index.html"},
-    {"name" : "Plants vs Zombies", "url" : "https://script.google.com/macros/s/AKfycby_ln3ql4aO56lxfeLUH_UziAcZvRzETmL9zqekK0neuz5OHISrr6getE8_-or9E_Tj/exec"}
+    {"name" : "Plants vs Zombies", "url" : "https://script.google.com/macros/s/AKfycby_ln3ql4aO56lxfeLUH_UziAcZvRzETmL9zqekK0neuz5OHISrr6getE8_-or9E_Tj/exec"},
+    {"name" : "Crazy Cattle 3D", "url" : "https://cutlass.mos.us-south-1.sufybkt.com/CrazyCattle3D/index.html"}
 ];
 gameURLS.push({"name" : "Request Games", "url" : "https://cutlass.mos.us-south-1.sufybkt.com/GameRequests/submit.html"})
 document.querySelector("title").innerText = "Google Classroom";
