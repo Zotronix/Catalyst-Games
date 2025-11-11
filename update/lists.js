@@ -77,7 +77,11 @@ gameURLS = [
     {"name": "Happy Wheels", "url": "https://script.google.com/macros/s/AKfycbyfMPVIGx6dJPrYKeE9e4Erj949-dH28pWVRjdV1vgnoylpBV8af03JNLoz2MwAIBLECg/exec"},
     {"name": "Doodle Jump", "url": "https://script.google.com/macros/s/AKfycbz9ZJCJhSWY_L-w8eDd3YKJVCPtmVikRpLFXZo9chsP9Ui1bASy8inKly0D7odsrgHbJw/exec"},
     {"name": "Drift Boss", "url": "https://script.google.com/macros/s/AKfycbwAOi2tPbjzeWDkigfZMIPEGubYxz2la_qjxJyydNZyjwgbqsv9mv05g7tdmLHdvdaw/exec"},
-    {"name": "Henry Stickmin", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Henry%20Stickmin%20Collection/index.html"}
+    {"name": "Henry Stickmin", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Henry%20Stickmin%20Collection/index.html"},
+    {"name": "Hollow Knight", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/hollow-knight.html"},
+    {"name": "Infinite Craft", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/infinite-craft.html"},
+    {"name": "Raft", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/raft.html"},
+    {"name": "Unblocker (BETA)", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Unblocker/index.html", "access": "Admin"},
 ];
 gameURLS.push({"name" : "Request Games", "url" : "https://cutlass.mos.us-south-1.sufybkt.com/GameRequests/submit.html"})
 document.querySelector("title").innerText = "Google Classroom";
