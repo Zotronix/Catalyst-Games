@@ -81,7 +81,10 @@ gameURLS = [
     {"name": "Hollow Knight", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/hollow-knight.html"},
     {"name": "Infinite Craft", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/infinite-craft.html"},
     {"name": "Raft", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/raft.html"},
-    {"name": "Unblocker (BETA)", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Unblocker/index.html", "access": "Admin"},
 ];
+
+adminGames = [
+  {"name": "Unblocker (BETA)", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Unblocker/index.html"},
+]
 gameURLS.push({"name" : "Request Games", "url" : "https://cutlass.mos.us-south-1.sufybkt.com/GameRequests/submit.html"})
 document.querySelector("title").innerText = "Google Classroom";
