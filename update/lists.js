@@ -23,7 +23,7 @@ gameURLS = [
     {"name": "Portal", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/portal.html"},
     {"name": "Cookie Clicker", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/cookie-clicker.html"},
     {"name": "Car Simulator", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Car%20Simulator/index.html"},
-    {"name": "Subway Surfers", "url": "https://cutlass.mos.us-south-1.sufybkt.com/subway/index.html"},
+    {"name": "Subway Surfers", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/subway-surfers.html"},
     {"name": "Bloons Tower Defense 4", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/bloons-tower-defense-4.html"},
     {"name": "Taxi Drift", "url": "https://script.google.com/macros/s/AKfycbw5OBrDuUEcIA8zhAOiNU3U800gv3niOBqf44VIjv1ZfndCgav4OxoEPHS1ZLRCwHUnHg/exec"},
     {"name": "Hole.io", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/hole.io.html"},
@@ -72,6 +72,7 @@ gameURLS = [
     {"name": "OvO", "url": "https://script.google.com/macros/s/AKfycbyDZOJq86UIFlMkKfvZtA_Sv86sKooVRpwVFS2rb38TOT8ExCt3PfR1Y5UAveVuVGlQLw/exec"},
     {"name": "Drive Mad", "url": "https://cutlass.mos.us-south-1.sufybkt.com/drive-mad-main/index.html"},
     {"name": "Run 3", "url": "https://script.google.com/macros/s/AKfycbzH19beOtthmgHOAyQwTzkPrGUquWfIq91ElX_xLebPeMZTByPCWbHpMX2ANYTjcTjs/exec"},
+    {"name": "Duck Life 3", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/duck-life-3.html"},
     {"name": "Duck Life 5", "url": "https://script.google.com/macros/s/AKfycbw3sy-Wq6nxyUpV0HOn0KE-M7vYfdnBq4uk0kw8HArdPIxVkpKqwV6KBhYF340z2ahQ/exec"},
     {"name": "Block Blast", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Block%20Blast/index.html"},
     {"name": "Happy Wheels", "url": "https://script.google.com/macros/s/AKfycbyfMPVIGx6dJPrYKeE9e4Erj949-dH28pWVRjdV1vgnoylpBV8af03JNLoz2MwAIBLECg/exec"},
@@ -81,6 +82,13 @@ gameURLS = [
     {"name": "Hollow Knight", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/hollow-knight.html"},
     {"name": "Infinite Craft", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/infinite-craft.html"},
     {"name": "Raft", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/raft.html"},
+    {"name": "Brawl Heroes", "url": "https://marketjs.cdn.msnfun.com/9pk3b4qcbtck/v22/index.html"},
+    {"name": "Ultrakill", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/ultrakill.html"},
+    {"name": "Angry Birds", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/angry-birds.html"},
+    {"name": "My Friend Pedro", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/my-friend-pedro.html"},
+    {"name": "99 Nights in the Forest", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/99-nights.html"},
+    {"name": "Deltarune", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/deltarune.html"},
+    {"name": "Undertale Yellow", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/undertale-yellow.html"},
 ];
 
 adminGames = [
