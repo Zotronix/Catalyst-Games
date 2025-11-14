@@ -41,6 +41,7 @@ gameURLS = [
     {"name": "Minecraft 1.9.4", "url": "https://cutlass.mos.us-south-1.sufybkt.com/EaglercraftL_1.9_v0_7_0_Offline_Signed.html"},
     {"name": "Minecraft 1.11.2", "url": "https://cutlass.mos.us-south-1.sufybkt.com/EaglercraftZ1.11.html"},
     {"name": "Minecraft Tuff 1.12.2", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Tuff%20Client/index.html"},
+    {"name": "Minecraft 1.20.1", "url": "https://cutlass.mos.us-south-1.sufybkt.com/mc%201.20/index.html"},
     {"name": "Roblox Color Run", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/rbx-color-run.html"},
     {"name": "Roblox Blade Ball", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/blade-ball-rbx.html"},
     {"name": "Roblox Obby", "url": "https://cutlass.mos.us-south-1.sufybkt.com/Games/rbx-obby.html"},
